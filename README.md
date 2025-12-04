@@ -2,7 +2,7 @@
 Project done during **Full Stack Software Engineering studies** at **Holberton School**.
 It aims to learn about **binary trees** and how to implement different operations such as node creation, insertion, deletion, traversals, measuring height, depth, size, and finding relatives like parents, siblings, and uncles in **C**.
 
-![Binary Trees](https://user-images.githubusercontent.com/zezo773/binary_trees_image_placeholder.jpg)
+![Binary Trees](https://t4.ftcdn.net/jpg/00/71/14/79/240_F_71147969_I7V9s7Pc1yH9YdaBbdFEQjIq8hN7LWVU.jpg)
 
 ## Technologies
 
